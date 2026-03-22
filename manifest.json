@@ -1,13 +1,14 @@
 {
-  "name": "HIRU MOBILE Printouts",
+  "name": "Hiru Printouts",
   "short_name": "Printouts",
-  "description": "HIRU MOBILE Printout Vendor Entry App",
-  "start_url": "/",
+  "description": "Hiru Mobile Printout Entry App",
+  "start_url": "/HIRU-PRINT/",
+  "scope": "/HIRU-PRINT/",
   "display": "standalone",
-  "background_color": "#f0f9ff",
+  "background_color": "#0891b2",
   "theme_color": "#0891b2",
-  "orientation": "portrait",
-  "lang": "si",
+  "orientation": "portrait-primary",
+  "lang": "en",
   "icons": [
     {
       "src": "icon-192.png",
@@ -21,7 +22,5 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
-  "screenshots": [],
-  "categories": ["business", "productivity"]
+  ]
 }
